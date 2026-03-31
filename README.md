@@ -6,5 +6,5 @@ Status Page https://status.myselfhosted.online
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2ew56.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 Tor Snowflake Relay: 
-https:// relay.myselfhosted.online
+(https://relay.myselfhosted.online)
 
